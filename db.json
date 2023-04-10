@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Bhagya",
+      "lastName": "Dilhara",
+      "email": "bhagya.d@gmail.com",
+      "dob": "1997-11-07T18:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "SITS",
+      "experience": 2,
+      "package": 100000,
+      "id": 1
+    },
+    {
+      "firstName": "Chanuka",
+      "lastName": "Supun",
+      "email": "chanu@gmail.com",
+      "dob": "1997-12-05T18:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Vallible",
+      "experience": 3,
+      "package": 75000,
+      "id": 2
+    }
+  ]
+}
