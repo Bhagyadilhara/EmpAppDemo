@@ -30,15 +30,15 @@
       "id": 1
     },
     {
-      "firstName": "Chanuka",
-      "lastName": "Supun",
-      "email": "chanu@gmail.com",
-      "dob": "1997-12-05T18:00:00.000Z",
-      "gender": "male",
-      "education": "Diploma",
-      "company": "Vallible",
-      "experience": 3,
-      "package": 75000,
+      "firstName": "Mahima",
+      "lastName": "Induvara",
+      "email": "Mahima@gmail.com",
+      "dob": "1997-12-30T18:00:00.000Z",
+      "gender": "female",
+      "education": "Secondary",
+      "company": "Arpico",
+      "experience": 5,
+      "package": 85000,
       "id": 2
     }
   ]
