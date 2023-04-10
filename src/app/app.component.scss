@@ -2,3 +2,18 @@
     flex: 1 1 auto;
   }
   
+  .main-body{
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 1400px;
+    mat-form-field{
+      width: 100%;
+    }
+  }
+
+  .button-container {
+    display: flex;
+    flex-direction: row;
+    gap: 8px; /* Add some spacing between the buttons */
+  }
+  
